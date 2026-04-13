@@ -16,7 +16,7 @@ Daily-updated dataset of available and resale .feedback one-word domains from Un
 
 **Public extract:** 7,817 rows · **Live catalog:** 7,817 domains
 
-**Last updated:** 2026-04-12  
+**Last updated:** 2026-04-13  
 **Canonical page:** `https://unique.domains/domains/tld/feedback`  
 **Best for:** founders, investors, studios
 
@@ -67,7 +67,7 @@ print(df.head())
 | seventeen.feedback  | available | $489.98   | —             | 84             | 62     | 9      | namecheap |
 | odd.feedback        | premium   | $520      | $520          | 72             | 32     | 3      | namecheap |
 | athletics.feedback  | available | $489.98   | —             | 69             | 52     | 9      | namecheap |
-| gas.feedback        | premium   | $11.05    | $520          | 72             | 32     | 3      | namecheap |
+| gas.feedback        | premium   | $11.05    | $520          | 72             | 31     | 3      | namecheap |
 | forge.feedback      | available | $489.98   | —             | 62             | 45     | 5      | namecheap |
 | sad.feedback        | premium   | $520      | $520          | 72             | 27     | 3      | namecheap |
 | eternal.feedback    | available | $489.98   | —             | 92             | 39     | 7      | namecheap |
@@ -81,9 +81,9 @@ print(df.head())
 | investing.feedback  | available | $489.98   | —             | 82             | 35     | 9      | namecheap |
 | low.feedback        | premium   | $520      | $520          | 78             | 22     | 3      | namecheap |
 | goon.feedback       | available | $489.98   | —             | 80             | 35     | 5      | namecheap |
-| sly.feedback        | premium   | $520      | $520          | 60             | 19     | 3      | namecheap |
+| ago.feedback        | premium   | $520      | $520          | 66             | 19     | 3      | namecheap |
 | statistics.feedback | available | $489.98   | —             | 60             | 34     | 10     | namecheap |
-| ago.feedback        | premium   | $520      | $520          | 66             | 18     | 3      | namecheap |
+| sly.feedback        | premium   | $520      | $520          | 60             | 19     | 3      | namecheap |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .FEEDBACK One-Word Domains*. Version 2026-04-12. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .FEEDBACK One-Word Domains*. Version 2026-04-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
