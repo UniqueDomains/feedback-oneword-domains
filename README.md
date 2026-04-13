@@ -68,22 +68,22 @@ print(df.head())
 | odd.feedback        | premium   | $520      | $520          | 72             | 32     | 3      | namecheap |
 | athletics.feedback  | available | $489.98   | —             | 69             | 52     | 9      | namecheap |
 | gas.feedback        | premium   | $11.05    | $520          | 72             | 31     | 3      | namecheap |
-| forge.feedback      | available | $489.98   | —             | 62             | 45     | 5      | namecheap |
-| sad.feedback        | premium   | $520      | $520          | 72             | 27     | 3      | namecheap |
+| forge.feedback      | available | $489.98   | —             | 62             | 44     | 5      | namecheap |
+| sad.feedback        | premium   | $520      | $520          | 72             | 26     | 3      | namecheap |
 | eternal.feedback    | available | $489.98   | —             | 92             | 39     | 7      | namecheap |
-| cut.feedback        | premium   | $520      | $520          | 124            | 26     | 3      | namecheap |
+| cut.feedback        | premium   | $520      | $520          | 124            | 25     | 3      | namecheap |
 | unify.feedback      | available | $489.98   | —             | 72             | 38     | 5      | namecheap |
 | dip.feedback        | premium   | $520      | $520          | 70             | 25     | 3      | namecheap |
 | cozy.feedback       | available | $489.98   | —             | 110            | 37     | 4      | namecheap |
 | dry.feedback        | premium   | $520      | $520          | 80             | 23     | 3      | namecheap |
-| terminal.feedback   | available | $489.98   | —             | 104            | 36     | 8      | namecheap |
+| terminal.feedback   | available | $489.98   | —             | 104            | 37     | 8      | namecheap |
 | rag.feedback        | premium   | $520      | $520          | 54             | 23     | 3      | namecheap |
 | investing.feedback  | available | $489.98   | —             | 82             | 35     | 9      | namecheap |
 | low.feedback        | premium   | $520      | $520          | 78             | 22     | 3      | namecheap |
 | goon.feedback       | available | $489.98   | —             | 80             | 35     | 5      | namecheap |
 | ago.feedback        | premium   | $520      | $520          | 66             | 19     | 3      | namecheap |
 | statistics.feedback | available | $489.98   | —             | 60             | 34     | 10     | namecheap |
-| sly.feedback        | premium   | $520      | $520          | 60             | 19     | 3      | namecheap |
+| sly.feedback        | premium   | $520      | $520          | 60             | 18     | 3      | namecheap |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
