@@ -1,22 +1,22 @@
-# Available .FEEDBACK One-Word Domains (7,817)
+# Available .FEEDBACK One-Word Domains (10,047)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
-  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-7%2C817%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-7%2C817%20domains-6f42c1">
+  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-10%2C047%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
 
-Daily-updated dataset of available and resale .feedback one-word domains from Unique Domains.
+Daily-updated public extract of available and resale .feedback one-word domains from Unique Domains.
 
-> **Note:** this repository currently mirrors the full live catalog for this exact search.
-> Unique Domains counts can still change as the search refreshes.
+> **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
+> The full live catalog for this exact search currently contains **10,047 domains** on the canonical page below.
 
-**Public extract:** 7,817 rows · **Live catalog:** 7,817 domains
+**Public extract:** 1,000 rows · **Live catalog:** 10,047 domains
 
-**Last updated:** 2026-04-13  
+**Last updated:** 2026-04-26  
 **Canonical page:** `https://unique.domains/domains/tld/feedback`  
 **Best for:** founders, investors, studios
 
@@ -43,8 +43,8 @@ This repository is the public extract for Unique Domains' .FEEDBACK one-word dom
 
 ### Files
 
-- `feedback.csv` — public CSV extract (7,817 rows)
-- `feedback.json` — public JSON extract (7,817 rows)
+- `feedback.csv` — public CSV extract (1,000 rows)
+- `feedback.json` — public JSON extract (1,000 rows)
 - `DATA_DICTIONARY.md` — field definitions for the exported files
 - `METHODOLOGY.md` — scope, refresh policy, and caveats
 - `CHANGELOG.md` — latest snapshot metadata
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain              | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
-| ------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
-| seventeen.feedback  | available | $489.98   | —             | 84             | 62     | 9      | namecheap |
-| odd.feedback        | premium   | $520      | $520          | 72             | 32     | 3      | namecheap |
-| athletics.feedback  | available | $489.98   | —             | 69             | 52     | 9      | namecheap |
-| gas.feedback        | premium   | $11.05    | $520          | 72             | 31     | 3      | namecheap |
-| forge.feedback      | available | $489.98   | —             | 62             | 44     | 5      | namecheap |
-| sad.feedback        | premium   | $520      | $520          | 72             | 26     | 3      | namecheap |
-| eternal.feedback    | available | $489.98   | —             | 92             | 39     | 7      | namecheap |
-| cut.feedback        | premium   | $520      | $520          | 124            | 25     | 3      | namecheap |
-| unify.feedback      | available | $489.98   | —             | 72             | 38     | 5      | namecheap |
-| dip.feedback        | premium   | $520      | $520          | 70             | 25     | 3      | namecheap |
-| cozy.feedback       | available | $489.98   | —             | 110            | 37     | 4      | namecheap |
-| dry.feedback        | premium   | $520      | $520          | 80             | 23     | 3      | namecheap |
-| terminal.feedback   | available | $489.98   | —             | 104            | 37     | 8      | namecheap |
-| rag.feedback        | premium   | $520      | $520          | 54             | 23     | 3      | namecheap |
-| investing.feedback  | available | $489.98   | —             | 82             | 35     | 9      | namecheap |
-| low.feedback        | premium   | $520      | $520          | 78             | 22     | 3      | namecheap |
-| goon.feedback       | available | $489.98   | —             | 80             | 35     | 5      | namecheap |
-| ago.feedback        | premium   | $520      | $520          | 66             | 19     | 3      | namecheap |
-| statistics.feedback | available | $489.98   | —             | 60             | 34     | 10     | namecheap |
-| sly.feedback        | premium   | $520      | $520          | 60             | 18     | 3      | namecheap |
+| domain                 | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
+| ---------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
+| keepthechange.feedback | available | $15.99    | —             | 46             | 59     | 15     | name.com  |
+| Iam.feedback           | premium   | $560      | $560          | 90             | 47     | 4      | namecheap |
+| skills.feedback        | available | $15.99    | —             | 58             | 47     | 6      | name.com  |
+| KFC.feedback           | premium   | $560      | $560          | 74             | 27     | 3      | namecheap |
+| aliens.feedback        | available | $15.99    | —             | 56             | 35     | 6      | name.com  |
+| sqm.feedback           | premium   | $560      | $560          | 54             | 11     | 4      | namecheap |
+| payments.feedback      | available | $15.99    | —             | 58             | 33     | 8      | name.com  |
+| teams.feedback         | available | $15.99    | —             | 62             | 32     | 5      | name.com  |
+| letsgo.feedback        | available | $15.99    | —             | 57             | 31     | 7      | name.com  |
+| inspiration.feedback   | available | $15.99    | —             | 88             | 30     | 11     | name.com  |
+| commonground.feedback  | available | $15.99    | —             | 74             | 28     | 13     | name.com  |
+| gems.feedback          | available | $15.99    | —             | 70             | 28     | 4      | name.com  |
+| Trex.feedback          | available | $489.98   | —             | 80             | 24     | 5      | namecheap |
+| echoes.feedback        | available | $15.99    | —             | 56             | 24     | 6      | name.com  |
+| inhouse.feedback       | available | $15.99    | —             | 70             | 23     | 8      | name.com  |
+| makeit.feedback        | available | $15.99    | —             | 82             | 22     | 7      | name.com  |
+| stadia.feedback        | available | $15.99    | —             | 66             | 22     | 6      | name.com  |
+| brothers.feedback      | available | $15.99    | —             | 60             | 22     | 8      | name.com  |
+| unicorns.feedback      | available | $15.99    | —             | 73             | 21     | 8      | name.com  |
+| children.feedback      | available | $15.99    | —             | 68             | 21     | 8      | name.com  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 7,817-row public sample | 7,817 live domains                               |
+| 1,000-row public sample | 10,047 live domains                              |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .FEEDBACK One-Word Domains*. Version 2026-04-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .FEEDBACK One-Word Domains*. Version 2026-04-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
