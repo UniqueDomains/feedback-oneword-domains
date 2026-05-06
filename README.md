@@ -14,9 +14,9 @@ Daily-updated public extract of available and resale .feedback one-word domains 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **10,577 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 10,577 domains
+**Public extract:** 1,000 rows · **Live catalog:** 10,577 domains · **Median ask:** $110.11 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-01  
+**Last updated:** 2026-05-06  
 **Canonical page:** `https://unique.domains/domains/tld/feedback`  
 **Best for:** founders, investors, studios
 
@@ -64,6 +64,14 @@ print(df.head())
 
 | domain                | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
 | --------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
+| Acup.feedback         | available | $489.98   | —             | 80             | 5      | 5      | namecheap |
+| useit.feedback        | available | $15.99    | —             | 94             | 7      | 6      | name.com  |
+| dogsit.feedback       | available | $15.99    | —             | 96             | 2      | 6      | name.com  |
+| edamame.feedback      | available | $15.99    | —             | 80             | 9      | 7      | name.com  |
+| playin.feedback       | available | $15.99    | —             | 80             | 10     | 7      | name.com  |
+| makeit.feedback       | available | $15.99    | —             | 82             | 22     | 7      | name.com  |
+| messages.feedback     | available | $15.99    | —             | 80             | 16     | 8      | name.com  |
+| Snickers.feedback     | available | $489.98   | —             | 80             | 10     | 8      | namecheap |
 | skills.feedback       | available | $15.99    | —             | 58             | 47     | 6      | name.com  |
 | Iam.feedback          | premium   | $560      | $560          | 90             | 47     | 4      | namecheap |
 | prompts.feedback      | available | $15.99    | —             | 54             | 39     | 7      | name.com  |
@@ -76,14 +84,6 @@ print(df.head())
 | inspiration.feedback  | available | $15.99    | —             | 88             | 30     | 11     | name.com  |
 | commonground.feedback | available | $15.99    | —             | 74             | 28     | 13     | name.com  |
 | gems.feedback         | available | $15.99    | —             | 70             | 28     | 4      | name.com  |
-| echoes.feedback       | available | $15.99    | —             | 56             | 24     | 6      | name.com  |
-| makeit.feedback       | available | $15.99    | —             | 82             | 22     | 7      | name.com  |
-| stadia.feedback       | available | $15.99    | —             | 66             | 22     | 6      | name.com  |
-| brothers.feedback     | available | $15.99    | —             | 60             | 22     | 8      | name.com  |
-| unicorns.feedback     | available | $15.99    | —             | 73             | 21     | 8      | name.com  |
-| children.feedback     | available | $15.99    | —             | 68             | 21     | 8      | name.com  |
-| distributed.feedback  | available | $15.99    | —             | 64             | 21     | 11     | name.com  |
-| resources.feedback    | available | $15.99    | —             | 58             | 21     | 9      | name.com  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -91,13 +91,13 @@ These rows are selected to show a more legible mix of visible asks, resale conte
 
 You are seeing the public sample. Unique Domains keeps the exact search context and adds saved workflows, deeper filters, and alerting.
 
-| GitHub extract          | Unique Domains                                   |
-| ----------------------- | ------------------------------------------------ |
-| 1,000-row public sample | 10,577 live domains                              |
-| Static CSV / JSON       | live search and daily refresh                    |
-| Basic exported fields   | deeper price, demand, risk, and workflow context |
-| No persistence          | Radar, saved search, and alerts                  |
-| No founder workflow     | Project, shortlist, and next-step workflow       |
+| GitHub extract          | Unique Domains                             |
+| ----------------------- | ------------------------------------------ |
+| 1,000-row public sample | 10,577 live domains                        |
+| Static CSV / JSON       | live search and daily refresh              |
+| Basic exported fields   | 0 high-demand names under $2,500           |
+| No persistence          | Radar, saved search, and alerts            |
+| No founder workflow     | Project, shortlist, and next-step workflow |
 
 If this sample already feels useful, Unique Domains is where the exact search becomes a workflow.
 
@@ -120,13 +120,12 @@ See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This repository follows the exact public search represented by the canonical page above.
+This selection is entirely made up of one-word .feedback domains. The extension is highly specific, so the best names are the ones where the word and the TLD read naturally together. Generic terms such as finals.feedback or jewels.feedback can feel clear and category-led, while coined or ambiguous terms need stronger brand logic. For founders, focus on names that are memorable, easy to say, and clearly usable as a customer input or review destination. For investors, this set is more niche than mainstream extensions, so quality depends on exact-word relevance, clean trademark posture, and realistic entry price. Median ask is 110.11, which helps keep comparisons grounded.
 
-- This repository is a public extract, not the full live catalog.
-- Counts, prices, and statuses can change over time.
-- Scores are decision-support signals, not guarantees of resale value.
-- Trademark, SEO, and risk signals should be treated as screening inputs, not legal or specialist advice.
-- Unique Domains contains deeper filters, monitoring, and decision workflows than this public extract.
+- All domains in this set use the .feedback TLD
+- The selection contains 10,577 one-word domains
+- Median ask across the set is 110.11
+- Check exact-match trademark risk before choosing
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -143,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .FEEDBACK One-Word Domains*. Version 2026-05-01. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .FEEDBACK One-Word Domains*. Version 2026-05-06. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
