@@ -73,7 +73,7 @@ print(df.head())
 | messages.feedback     | available | $15.99    | —             | 80             | 16     | 8      | name.com  |
 | Snickers.feedback     | available | $489.98   | —             | 80             | 10     | 8      | namecheap |
 | skills.feedback       | available | $15.99    | —             | 58             | 47     | 6      | name.com  |
-| Iam.feedback          | premium   | $560      | $560          | 90             | 47     | 4      | namecheap |
+| Iam.feedback          | premium   | $560      | $560          | 90             | 49     | 4      | namecheap |
 | prompts.feedback      | available | $15.99    | —             | 54             | 39     | 7      | name.com  |
 | KFC.feedback          | premium   | $560      | $560          | 74             | 27     | 3      | namecheap |
 | aliens.feedback       | available | $15.99    | —             | 56             | 35     | 6      | name.com  |
