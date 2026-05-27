@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .feedback one-word domains 
 
 **Public extract:** 1,000 rows · **Live catalog:** 10,577 domains · **Median ask:** $110.11 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-17  
+**Last updated:** 2026-05-27  
 **Canonical page:** `https://unique.domains/domains/tld/feedback`  
 **Best for:** founders, investors, studios
 
@@ -81,9 +81,9 @@ print(df.head())
 | payments.feedback     | available | $15.99    | —             | 58             | 33     | 8      | name.com  |
 | teams.feedback        | available | $15.99    | —             | 62             | 32     | 5      | name.com  |
 | letsgo.feedback       | available | $15.99    | —             | 57             | 31     | 7      | name.com  |
-| inspiration.feedback  | available | $15.99    | —             | 88             | 30     | 11     | name.com  |
 | commonground.feedback | available | $15.99    | —             | 74             | 28     | 13     | name.com  |
 | gems.feedback         | available | $15.99    | —             | 70             | 28     | 4      | name.com  |
+| inspiration.feedback  | available | $15.99    | —             | 88             | 27     | 11     | name.com  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .FEEDBACK One-Word Domains*. Version 2026-05-17. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .FEEDBACK One-Word Domains*. Version 2026-05-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
