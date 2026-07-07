@@ -14,10 +14,10 @@ Daily-updated public extract of available and resale .feedback one-word domains 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **10,577 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 10,577 domains · **Median ask:** $110.11 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 10,577 domains · **Median ask:** $33.76 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-27  
-**Canonical page:** `https://unique.domains/domains/tld/feedback`  
+**Last updated:** 2026-07-07
+**Canonical page:** `https://unique.domains/domains/tld/feedback`
 **Best for:** founders, investors, studios
 
 ---
@@ -43,13 +43,13 @@ This repository is the public extract for Unique Domains' .FEEDBACK one-word dom
 
 ### Files
 
-- `feedback.csv` — public CSV extract (1,000 rows)
-- `feedback.json` — public JSON extract (1,000 rows)
-- `DATA_DICTIONARY.md` — field definitions for the exported files
-- `METHODOLOGY.md` — scope, refresh policy, and caveats
-- `CHANGELOG.md` — latest snapshot metadata
-- `CITATION.cff` — machine-readable dataset citation metadata
-- `LICENSE` — terms for the public extract
+- `feedback.csv`, public CSV extract (1,000 rows)
+- `feedback.json`, public JSON extract (1,000 rows)
+- `DATA_DICTIONARY.md`, field definitions for the exported files
+- `METHODOLOGY.md`, scope, refresh policy, and caveats
+- `CHANGELOG.md`, latest snapshot metadata
+- `CITATION.cff`, machine-readable dataset citation metadata
+- `LICENSE`, terms for the public extract
 
 ## 🧭 Quick start
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain                | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
-| --------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
-| Acup.feedback         | available | $489.98   | —             | 80             | 5      | 5      | namecheap |
-| useit.feedback        | available | $15.99    | —             | 94             | 7      | 6      | name.com  |
-| dogsit.feedback       | available | $15.99    | —             | 96             | 2      | 6      | name.com  |
-| edamame.feedback      | available | $15.99    | —             | 80             | 9      | 7      | name.com  |
-| playin.feedback       | available | $15.99    | —             | 80             | 10     | 7      | name.com  |
-| makeit.feedback       | available | $15.99    | —             | 82             | 21     | 7      | name.com  |
-| messages.feedback     | available | $15.99    | —             | 80             | 16     | 8      | name.com  |
-| Snickers.feedback     | available | $489.98   | —             | 80             | 10     | 8      | namecheap |
-| skills.feedback       | available | $15.99    | —             | 58             | 47     | 6      | name.com  |
-| Iam.feedback          | premium   | $560      | $560          | 90             | 49     | 4      | namecheap |
-| prompts.feedback      | available | $15.99    | —             | 54             | 39     | 7      | name.com  |
-| KFC.feedback          | premium   | $560      | $560          | 74             | 27     | 3      | namecheap |
-| aliens.feedback       | available | $15.99    | —             | 56             | 35     | 6      | name.com  |
-| sqm.feedback          | premium   | $560      | $560          | 54             | 11     | 4      | namecheap |
-| payments.feedback     | available | $15.99    | —             | 58             | 33     | 8      | name.com  |
-| teams.feedback        | available | $15.99    | —             | 62             | 32     | 5      | name.com  |
-| letsgo.feedback       | available | $15.99    | —             | 57             | 31     | 7      | name.com  |
-| commonground.feedback | available | $15.99    | —             | 74             | 28     | 13     | name.com  |
-| gems.feedback         | available | $15.99    | —             | 70             | 28     | 4      | name.com  |
-| inspiration.feedback  | available | $15.99    | —             | 88             | 27     | 11     | name.com  |
+| domain        | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
+| ------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
+| bang.feedback | available | $15.99    | —             | high           | low    | 4      | name.com  |
+| btw.feedback  | premium   | $560      | $560          | high           | low    | 3      | namecheap |
+| cent.feedback | available | $15.99    | —             | high           | low    | 4      | name.com  |
+| cow.feedback  | premium   | $560      | $560          | high           | low    | 3      | namecheap |
+| clap.feedback | available | $15.99    | —             | high           | low    | 4      | name.com  |
+| dry.feedback  | premium   | $520      | $520          | high           | low    | 3      | namecheap |
+| cozy.feedback | available | $15.99    | $799.99       | high           | low    | 4      | name.com  |
+| due.feedback  | premium   | $560      | $560          | high           | low    | 3      | namecheap |
+| days.feedback | available | $15.99    | —             | high           | low    | 4      | name.com  |
+| dye.feedback  | premium   | $560      | $560          | medium         | low    | 3      | namecheap |
+| dull.feedback | available | $15.99    | —             | medium         | low    | 4      | name.com  |
+| flu.feedback  | premium   | $560      | $560          | medium         | low    | 3      | namecheap |
+| feel.feedback | available | $15.99    | —             | high           | low    | 4      | name.com  |
+| ham.feedback  | premium   | $560      | $560          | medium         | low    | 3      | namecheap |
+| gang.feedback | available | $15.99    | —             | high           | low    | 4      | name.com  |
+| hug.feedback  | premium   | $560      | $560          | high           | low    | 3      | namecheap |
+| giza.feedback | available | $15.99    | —             | high           | low    | 4      | name.com  |
+| hum.feedback  | premium   | $560      | $560          | high           | low    | 3      | namecheap |
+| glue.feedback | available | $15.99    | —             | high           | low    | 4      | name.com  |
+| ive.feedback  | premium   | $560      | $560          | medium         | low    | 3      | namecheap |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -105,27 +105,27 @@ If this sample already feels useful, Unique Domains is where the exact search be
 
 ## 🧱 Field summary
 
-- `domain` — Fully qualified domain name.
-- `status` — Current acquisition state for the domain in the public extract.
-- `purchase_price` — Visible purchase price when available.
-- `renewal_price` — Visible renewal price when available.
-- `attractiveness` — Composite naming score used as a decision-support signal.
-- `demand` — Relative buyer-pressure score when available.
-- `length` — Character count without the TLD.
-- `registrar` — Registrar name when known.
-- `created_at` — Creation timestamp when known.
-- `expires_at` — Expiry timestamp when known.
+- `domain`, Fully qualified domain name.
+- `status`, Current acquisition state for the domain in the public extract.
+- `purchase_price`, Visible purchase price when available.
+- `renewal_price`, Visible renewal price when available.
+- `attractiveness`, Public composite naming band used as a decision-support signal.
+- `demand`, Public buyer-pressure band when available.
+- `length`, Character count without the TLD.
+- `registrar`, Registrar name when known.
+- `created_at`, Creation timestamp when known.
+- `expires_at`, Expiry timestamp when known.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This selection is entirely made up of one-word .feedback domains. The extension is highly specific, so the best names are the ones where the word and the TLD read naturally together. Generic terms such as finals.feedback or jewels.feedback can feel clear and category-led, while coined or ambiguous terms need stronger brand logic. For founders, focus on names that are memorable, easy to say, and clearly usable as a customer input or review destination. For investors, this set is more niche than mainstream extensions, so quality depends on exact-word relevance, clean trademark posture, and realistic entry price. Median ask is 110.11, which helps keep comparisons grounded.
+This selection covers one-word .feedback domain names, currently numbering 10,577 across the extension. The median ask sits near $34, keeping most entries within reach for a quick shortlist or a first buy. Names range from plain dictionary words like 'geton' and 'barup' to brand-adjacent terms such as 'Chanel' and 'DaffyDuck,' so trademark exposure varies by name. When comparing these domains, weigh spelling simplicity, renewal cost, and existing brand conflicts before committing to a purchase.
 
-- All domains in this set use the .feedback TLD
-- The selection contains 10,577 one-word domains
-- Median ask across the set is 110.11
-- Check exact-match trademark risk before choosing
+- 10,577 one-word .feedback domains tracked, updated daily
+- Median ask near $34 across the full .feedback selection
+- Mix of dictionary words, phrases, and brand-adjacent names
+- Some names carry trademark risk—verify before buying
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .FEEDBACK One-Word Domains*. Version 2026-05-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .FEEDBACK One-Word Domains*. Version 2026-07-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
