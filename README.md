@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .feedback one-word domains 
 
 **Public extract:** 1,000 rows · **Live catalog:** 15,355 domains · **Median ask:** $22.12 · **High-demand under $2,500:** 8
 
-**Last updated:** 2026-08-19
+**Last updated:** 2026-08-20
 **Canonical page:** `https://unique.domains/domains/tld/feedback`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain        | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
-| ------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
-| xlv.feedback  | available | $9.98     | $489.98       | low            | low    | 3      | namecheap |
-| abo.feedback  | premium   | $11.05    | $520          | low            | low    | 3      | namecheap |
-| arco.feedback | available | $9.98     | $489.98       | low            | low    | 4      | namecheap |
-| azo.feedback  | premium   | $11.05    | $520          | low            | low    | 3      | namecheap |
-| arid.feedback | available | $9.98     | $489.98       | low            | low    | 4      | namecheap |
-| btw.feedback  | premium   | $560      | $560          | high           | low    | 3      | namecheap |
-| asat.feedback | available | $9.98     | $489.98       | low            | low    | 4      | namecheap |
-| cow.feedback  | premium   | $560      | $560          | high           | low    | 3      | namecheap |
-| auld.feedback | available | $9.98     | $489.98       | low            | low    | 4      | namecheap |
-| dry.feedback  | premium   | $520      | $520          | high           | low    | 3      | namecheap |
-| bang.feedback | available | $15.99    | —             | high           | low    | 4      | name.com  |
-| due.feedback  | premium   | $560      | $560          | high           | low    | 3      | namecheap |
-| boer.feedback | available | $9.98     | $489.98       | low            | low    | 4      | namecheap |
-| dye.feedback  | premium   | $560      | $560          | medium         | low    | 3      | namecheap |
-| cent.feedback | available | $15.99    | —             | high           | low    | 4      | name.com  |
-| flu.feedback  | premium   | $560      | $560          | medium         | low    | 3      | namecheap |
-| clap.feedback | available | $15.99    | —             | high           | low    | 4      | name.com  |
-| ham.feedback  | premium   | $560      | $560          | medium         | low    | 3      | namecheap |
-| cozy.feedback | available | $15.99    | $799.99       | high           | low    | 4      | name.com  |
-| hug.feedback  | premium   | $560      | $560          | high           | low    | 3      | namecheap |
+| domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
+| --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
+| feel.feedback   | available | $15.99    | —             | high           | low    | 4      | name.com  |
+| bang.feedback   | available | $15.99    | —             | high           | low    | 4      | name.com  |
+| wrong.feedback  | available | $15.99    | —             | high           | low    | 5      | name.com  |
+| colour.feedback | available | $15.99    | —             | high           | low    | 6      | name.com  |
+| xlv.feedback    | available | $9.98     | $489.98       | low            | low    | 3      | namecheap |
+| abo.feedback    | premium   | $11.05    | $520          | low            | low    | 3      | namecheap |
+| arco.feedback   | available | $9.98     | $489.98       | low            | low    | 4      | namecheap |
+| azo.feedback    | premium   | $11.05    | $520          | low            | low    | 3      | namecheap |
+| arid.feedback   | available | $9.98     | $489.98       | low            | low    | 4      | namecheap |
+| btw.feedback    | premium   | $560      | $560          | high           | low    | 3      | namecheap |
+| asat.feedback   | available | $9.98     | $489.98       | low            | low    | 4      | namecheap |
+| cow.feedback    | premium   | $560      | $560          | high           | low    | 3      | namecheap |
+| auld.feedback   | available | $9.98     | $489.98       | low            | low    | 4      | namecheap |
+| dry.feedback    | premium   | $520      | $520          | high           | low    | 3      | namecheap |
+| due.feedback    | premium   | $560      | $560          | high           | low    | 3      | namecheap |
+| boer.feedback   | available | $9.98     | $489.98       | low            | low    | 4      | namecheap |
+| dye.feedback    | premium   | $560      | $560          | medium         | low    | 3      | namecheap |
+| cent.feedback   | available | $15.99    | —             | high           | low    | 4      | name.com  |
+| flu.feedback    | premium   | $560      | $560          | medium         | low    | 3      | namecheap |
+| clap.feedback   | available | $15.99    | —             | high           | low    | 4      | name.com  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .FEEDBACK One-Word Domains*. Version 2026-08-19. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .FEEDBACK One-Word Domains*. Version 2026-08-20. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
