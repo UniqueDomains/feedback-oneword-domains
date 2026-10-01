@@ -1,10 +1,10 @@
-# Available .FEEDBACK One-Word Domains (25,330)
+# Available .FEEDBACK One-Word Domains (27,556)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-25%2C330%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-27%2C556%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .feedback one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **25,330 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **27,556 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 25,330 domains · **Median ask:** $28.54 · **High-demand under $2,500:** 34
+**Public extract:** 1,000 rows · **Live catalog:** 27,556 domains · **Median ask:** $31.68 · **High-demand under $2,500:** 42
 
-**Last updated:** 2026-09-30
+**Last updated:** 2026-10-01
 **Canonical page:** `https://unique.domains/domains/tld/feedback`
 **Best for:** founders, investors, studios
 
@@ -64,22 +64,22 @@ print(df.head())
 
 | domain        | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
 | ------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
-| lii.feedback  | available | $9.98     | $489.98       | high           | low    | 3      | namecheap |
+| lii.feedback  | available | $9.98     | $489.98       | medium         | low    | 3      | namecheap |
 | ans.feedback  | premium   | $512      | $512          | high           | low    | 3      | namesilo  |
 | acre.feedback | available | $9.99     | $321.22       | high           | low    | 4      | dynadot   |
 | asp.feedback  | premium   | $512      | $512          | high           | low    | 3      | namesilo  |
 | adit.feedback | available | $9.99     | $329.99       | medium         | low    | 4      | namesilo  |
-| ata.feedback  | premium   | $11.05    | $520          | high           | low    | 3      | namecheap |
+| ata.feedback  | premium   | $11.05    | $520          | medium         | low    | 3      | namecheap |
 | aged.feedback | available | $9.98     | $489.98       | high           | low    | 4      | namecheap |
 | atp.feedback  | premium   | $560      | $560          | high           | low    | 3      | namecheap |
 | ague.feedback | available | $9.98     | $489.98       | medium         | low    | 4      | namecheap |
 | axe.feedback  | premium   | $9.80     | $437.19       | high           | low    | 3      | porkbun   |
 | ahuh.feedback | available | $15.99    | —             | medium         | low    | 4      | name.com  |
-| beg.feedback  | premium   | $560      | $560          | high           | low    | 3      | namecheap |
-| akko.feedback | available | $9.98     | $489.98       | high           | low    | 4      | namecheap |
-| bjs.feedback  | premium   | $512      | $512          | high           | low    | 3      | namesilo  |
-| alar.feedback | available | $9.98     | $489.98       | medium         | low    | 4      | namecheap |
+| beg.feedback  | premium   | $11.05    | $520          | high           | low    | 3      | namecheap |
+| akko.feedback | available | $9.98     | $489.98       | medium         | low    | 4      | namecheap |
 | bns.feedback  | premium   | $11.05    | $520          | high           | low    | 3      | namecheap |
+| aris.feedback | available | $9        | $310.70       | high           | low    | 4      | spaceship |
+| ccf.feedback  | premium   | $440      | $440          | high           | low    | 3      | dynadot   |
 | blok.feedback | available | $9.98     | $489.98       | high           | low    | 4      | namecheap |
 | cdp.feedback  | premium   | $9        | $414.20       | high           | low    | 3      | spaceship |
 | boar.feedback | available | $9.99     | $321.22       | high           | low    | 4      | dynadot   |
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 25,330 live domains                        |
+| 1,000-row public sample | 27,556 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 34 high-demand names under $2,500          |
+| Basic exported fields   | 42 high-demand names under $2,500          |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .FEEDBACK One-Word Domains*. Version 2026-09-30. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .FEEDBACK One-Word Domains*. Version 2026-10-01. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
